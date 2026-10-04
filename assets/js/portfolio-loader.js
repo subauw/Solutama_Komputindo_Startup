@@ -9,7 +9,7 @@ const categoryData = {
     ],
     client: 'PT. Sentosa Abadi',
     date: '10 Januari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   networking: {
     title: 'Networking Solutions',
@@ -21,7 +21,7 @@ const categoryData = {
     ],
     client: 'PT. Trans Logistik Indonesia',
     date: '15 Februari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   server: {
     title: 'Server & System Integration',
@@ -35,7 +35,7 @@ const categoryData = {
     ],
     client: 'PT. Goods Delivery Services',
     date: '01 March, 2026',
-    url: 'https://google.com',
+    url: 'https://solutamakomputindo.com',
   },
   'fiber-optic': {
     title: 'Fiber Optic Installation',
@@ -44,7 +44,7 @@ const categoryData = {
     paragraphs: ['Pemasangan kabel Fiber Optic indoor/outdoor, penyambungan (splicing), serta pengujian konektivitas menggunakan OTDR.', 'Penanganan kendala jaringan FO terputus serta optimasi jaringan transmisi data backbone.'],
     client: 'PT. Nusantara Data Center',
     date: '20 Januari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   videotron: {
     title: 'Videotron & Videowall',
@@ -53,7 +53,7 @@ const categoryData = {
     paragraphs: ['Pemasangan display digital Videotron dan Videowall untuk kebutuhan ruang rapat, command center, maupun iklan outdoor.', 'Dilengkapi setup CMS (Content Management System) untuk kemudahan kontrol konten dari jauh.'],
     client: 'Mall Surabaya Center',
     date: '05 Februari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   ups: {
     title: 'UPS & Electrical System',
@@ -65,7 +65,7 @@ const categoryData = {
     ],
     client: 'PT. Bank Jaya Mandiri',
     date: '12 Februari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   cabling: {
     title: 'Cabling Management',
@@ -77,7 +77,7 @@ const categoryData = {
     ],
     client: 'Gedung Perkantoran Menara 1',
     date: '28 Februari 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   'it-infra': {
     title: 'IT Infrastructure Solutions',
@@ -89,7 +89,7 @@ const categoryData = {
     ],
     client: 'PT. Inovasi Teknologi Bangsa',
     date: '10 Maret 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
   'laptop-desktop': {
     title: 'Servis Laptop & Desktop',
@@ -102,7 +102,7 @@ const categoryData = {
     ],
     client: 'PT. Digital Solusi Perkasa',
     date: '15 Maret 2026',
-    url: 'https://onesolutionstechnic.com',
+    url: 'https://solutamakomputindo.com',
   },
 };
 
